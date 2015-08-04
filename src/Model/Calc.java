@@ -7,7 +7,7 @@ public class Calc {
 
 	public static void main(String[] args) throws negativesNotAllowedException {
 		// TODO Auto-generated method stub
-	add("2;3\n4");
+
 	}
 
 	public static int add(String str) throws negativesNotAllowedException {
